@@ -7,7 +7,7 @@
   </a>
   <h1 align="center">Cryosphere PAZ satellite MAchine Learning</h1>
   <p align="justify">
-  Satellite imagery plays a pivotal role in unraveling the complexities of Earth's landscapes, and our project is dedicated to curating a comprehensive reference dataset sourced from the PAZ satellite's X-band images over the Massif du Mont Blanc region. The advantages lie in the detailed spatial resolution of the X-band, enabling nuanced analysis, while considerations involve addressing atmospheric conditions for accurate interpretation. Leveraging the unique perspective offered by PAZ's X-band, our project aims to create an extensively annotated dataset, fostering advancements in environmental monitoring and climate studies. We focused on cryospheric surfaces—encompassing ablation zones, accumulation zones, ice aprons, and hanging glaciers—the dataset also captures conventional land cover types, including urban areas, forests, plains, and rocky terrain. Through baseline classification experiments, employing  K-nearest neighbors (KNN) for supervised learning, we seek to provide insights into the intricacies of land cover classification in this high-resolution satellite imagery. In a nutshell, our project simplifies access to diverse satellite data, shedding light on the unique features of the Massif du Mont Blanc region, from icy terrains to familiar landscapes, providing a useful tool for a further range of studies and applications.
+  Satellite imagery plays a pivotal role in unraveling the complexities of Earth's landscapes, and our project is dedicated to curating a comprehensive reference dataset sourced from the PAZ satellite's X-band images over the Massif du Mont Blanc region. The advantages lie in the detailed spatial resolution of the X-band, enabling nuanced analysis, while considerations involve addressing atmospheric conditions for accurate interpretation. Leveraging the unique perspective offered by PAZ's X-band, our project aims to create an extensively annotated dataset, fostering advancements in environmental monitoring and climate studies. We focused on cryospheric surfaces (encompassing ablation zones, accumulation zones, ice aprons, and hanging glaciers) the dataset also captures conventional land cover types, including urban areas, forests, plains, and rocky terrain. Through baseline classification experiments, employing  K-nearest neighbors (KNN) for supervised learning, we seek to provide insights into the intricacies of land cover classification in this high-resolution satellite imagery. In a nutshell, our project simplifies access to diverse satellite data, shedding light on the unique features of the Massif du Mont Blanc region, from icy terrains to familiar landscapes, providing a useful tool for a further range of studies and applications.
   </p>
   <br />
 </div>
@@ -16,9 +16,8 @@ Reference:
     
     Suvrat Kaushik, Christophe Lin-Kwong-Chon, Matthieu Gallet, and Emmanuel Trouvé, Monitoring the cryosphere of Mont-Blanc massif (Western
     European Alps) with X-band PAZ SAR image time-series. ..., .., .... https://doi.org/....../
-  
-  Dataset: 
 
+Dataset: 
     https://zenodo.org/records/10401360
 
 <!-- TABLE OF CONTENTS -->
