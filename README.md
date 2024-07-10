@@ -12,10 +12,19 @@
   <br />
 </div>
 
-Reference:
-
-     Christophe Lin-Kwong-Chon, Matthieu Gallet, Suvrat Kaushik, Emmanuel Trouvé. Supervised Classification For Analysis Of Cryospheric Zones Using SAR Statistical Timeseries. International Geoscience and Remote Sensing Symposium (IGARSS 2023), Jul 2024, Athens, Greece. ⟨hal-04628785⟩
-
+Citation:
+```latex
+@inproceedings{linkwongchon:hal-04628785,
+  TITLE = {{Supervised Classification For Analysis Of Cryospheric Zones Using SAR Statistical Timeseries}},
+  AUTHOR = {Lin-Kwong-Chon, Christophe and Gallet, Matthieu and Kaushik, Suvrat and Trouv{\'e}, Emmanuel},
+  URL = {https://hal.science/hal-04628785},
+  BOOKTITLE = {{International Geoscience and Remote Sensing Symposium (IGARSS 2023)}},
+  ADDRESS = {Athens, Greece},
+  YEAR = {2024},
+  MONTH = Jul,
+  KEYWORDS = {SAR ; X/C bands ; Snow/Ice backscatter ; SAR Glaciers Cryospheric zones classification ; Glaciers ; Cryospheric zones classification},
+}
+```
 Dataset: 
     https://zenodo.org/records/10401360
 
