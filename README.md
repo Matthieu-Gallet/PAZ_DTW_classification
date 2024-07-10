@@ -13,9 +13,8 @@
 </div>
 
 Reference:
-    
-    Suvrat Kaushik, Christophe Lin-Kwong-Chon, Matthieu Gallet, and Emmanuel Trouvé, Monitoring the cryosphere of Mont-Blanc massif (Western
-    European Alps) with X-band PAZ SAR image time-series. ..., .., .... https://doi.org/....../
+
+     Christophe Lin-Kwong-Chon, Matthieu Gallet, Suvrat Kaushik, Emmanuel Trouvé. Supervised Classification For Analysis Of Cryospheric Zones Using SAR Statistical Timeseries. International Geoscience and Remote Sensing Symposium (IGARSS 2023), Jul 2024, Athens, Greece. ⟨hal-04628785⟩
 
 Dataset: 
     https://zenodo.org/records/10401360
