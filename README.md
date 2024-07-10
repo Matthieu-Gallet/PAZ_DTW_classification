@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="static/logo.png" alt="Logo" width="400">
+  <img src="static/logo.png" alt="Logo" width="200">
   </a>
   <h1 align="center">Cryosphere PAZ satellite MAchine Learning</h1>
   <p align="justify">
