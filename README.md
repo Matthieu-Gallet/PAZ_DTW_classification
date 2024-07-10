@@ -35,8 +35,8 @@
   MONTH = Jul,
 }
 ```
-
-<!-- TABLE OF CONTENTS -->
+<!-- 
+<!-- TABLE OF CONTENTS 
 <details>
   <summary>Contents</summary>
   <ol>
@@ -61,15 +61,17 @@
     <li><a href="#remerciements">Acknowledgments</a></li>
   </ol>
 </details>
-<br />
+<br /> 
 
-<!-- ABOUT THE PROJECT -->
+
+<!-- ABOUT THE PROJECT 
 ## Introduction
   
 ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+-->
 ### Libraries
 
 [![H5py Version](https://img.shields.io/badge/H5py-latest-blue.svg)](https://docs.h5py.org/en/stable/release.html)
@@ -137,14 +139,14 @@ Here's an example of how to install and configure the package.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- USAGE EXAMPLES -->
+<!-- USAGE EXAMPLES 
 ## Use cases
 
 ... Coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
+<!-- ROADMAP 
 ## Roadmap
 
 * [x] Create the data loader.
@@ -154,7 +156,7 @@ See [open issues](https://github.com/LE2P/gda-python.git/issues) for a full list
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+<!-- CONTRIBUTING 
 ## Contribution
 
 Contributions are what make the open source community an extraordinary place to learn, inspire and create. All your contributions will be **very much appreciated**.
@@ -172,7 +174,7 @@ Don't forget to give the project a star! Thanks to all!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- LICENSE -->
+<!-- LICENSE 
 ## License
 
 Distributed under the ... license. See `LICENSE.txt` for more information. (Coming soon)
@@ -187,9 +189,8 @@ Distributed under the ... license. See `LICENSE.txt` for more information. (Comi
 - Matthieu Gallet - <matthieu.gallet@univ-smb.fr>
 - Emmanuel Trouvé - <emmanuel.trouve@univ-smb.fr>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-...
+The authors would like to thank the *Spanish Instituto Nacional de Tecnica Aerospacial* (INTA) for the PAZ images (Project AO-001-051). The work was conducted as part of the SHARE CNES/PNTS project. 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
